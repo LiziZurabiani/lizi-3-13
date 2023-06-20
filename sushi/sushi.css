@@ -3,28 +3,21 @@
 }
 
 body{
-    background-color: #070F11;
+    background-image: url(sushi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.image1{
-    margin: 40px;
+div{
+    margin-left: 40px;
 }
 
 .image2{
     position: absolute;
     bottom: 10px;
-    margin-left: 40px;
 }
 
 .text{
     font-size: 32px;
     color: white;
-}
-
-.image3{
-    margin-left: 600px;
-    margin-top: -100px;
-    width: 800px;
-    height: 852px;
-
 }
